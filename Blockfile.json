@@ -3,6 +3,7 @@
     "packer",
     "vagrant",
     "consul",
+    "linkerd",
     "vault",
     "terraform",
     "nomad",

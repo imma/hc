@@ -6,7 +6,7 @@
     "linkerd",
     "vault",
     "terraform",
-    "nomad",
+    "k8s",
     "base"
   ]
 }
